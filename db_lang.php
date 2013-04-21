@@ -1,4 +1,5 @@
 <?php
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['db_invalid_connection_str'] = 'Det var ikke muligt at bestemme databasen ud fra den forbindelsesstring du har angivet.';
 $lang['db_unable_to_connect'] = 'Der kunne ikke forbindes til databasen ud fra de angivne indstillinger.';

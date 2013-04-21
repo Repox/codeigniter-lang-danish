@@ -1,4 +1,5 @@
 <?php
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['imglib_source_image_required'] = "Du skal angive en billedekilde i dine indstillinger.";
 $lang['imglib_gd_required'] = "GD billedebibliotek er nødvendigt for denne funktionalitet.";

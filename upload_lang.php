@@ -1,4 +1,5 @@
 <?php
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['upload_userfile_not_set'] = "Kunne ikke finde en POST variabel kaldet userfile..";
 $lang['upload_file_exceeds_limit'] = "Den uploadede fil overstiger den maksimalt tilladte grænse i din PHP konfiguration.";

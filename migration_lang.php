@@ -1,4 +1,5 @@
 <?php
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['migration_none_found']			= "Der kunne ikke findes nogen migreringer.";
 $lang['migration_not_found']			= "Migreringen kunne ikke findes.";

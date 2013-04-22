@@ -1,4 +1,5 @@
 <?php
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['ftp_no_connection']			= "Kunne ikke finde et gyldigt forbindelses ID. Kontroller at du er forbundet inden du udfører nogen fil handlinger.";
 $lang['ftp_unable_to_connect']		= "Kunne ikke forbinde til FTP serveren med det angivne værtsnavn.";

@@ -1,4 +1,5 @@
 <?php
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['email_must_be_array'] = "E-mail valideringsmetoden skal medsendes som et array.";
 $lang['email_invalid_address'] = "Ugyldig e-mail addresse: %s";

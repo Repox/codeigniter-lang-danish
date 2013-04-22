@@ -1,4 +1,5 @@
 <?php
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['required']			= "Feltet %s er påkrævet.";
 $lang['isset']				= "Feltet %s skal have en værdi.";
